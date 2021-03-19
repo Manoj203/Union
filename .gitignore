@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 javafile1
 javafile2
 javafile3
 javafile4
 javafile5
+=======
+javafile{1..5}
+>>>>>>> branch1
